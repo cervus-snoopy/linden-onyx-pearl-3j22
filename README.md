@@ -1,8 +1,8 @@
 # The Picture That Tastes of One
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047)
-[![make.fun](https://img.shields.io/badge/make.fun-entry-green)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047)
-[![make.fun](https://img.shields.io/badge/make.fun-ramen-orange)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047)
+[![make.fun · the-picture-that-tastes-of-one-20261122-2047](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
+[![rank](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/cervus-snoopy/linden-onyx-pearl-3j22/rank.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
+[![reward](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/cervus-snoopy/linden-onyx-pearl-3j22/reward.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
 
 A steaming bowl of ramen, drawn entirely in code — pure Node.js stdlib, no
 image API, no network, no dependencies. Amber broth, golden wavy noodles, a
